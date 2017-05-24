@@ -1,6 +1,8 @@
 # OAuthBundle
 Bundle allows you to connect to platform by OAuth authorization
 
+[![Build Status](https://travis-ci.org/dylanschreier/OAuthBundle.svg?branch=master)](https://travis-ci.org/dylanschreier/OAuthBundle)
+
 Installation
 ============
 
